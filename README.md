@@ -1,4 +1,4 @@
-# nodejsRandomLib
+# nodejsRandomGeneratorLib
 
 This library returns random results: 
 

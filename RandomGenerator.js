@@ -30,7 +30,7 @@ instance = {
         let keys = Object.keys(obj);
         let values = Object.values(obj);
 
-        let num = instance.number(0, keys.length);
+        let num = instance.number(0, keys.length-1);
         let randomObj = {};
         let key = keys[num];
         let value = values[num];
